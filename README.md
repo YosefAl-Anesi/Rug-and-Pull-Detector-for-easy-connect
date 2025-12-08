@@ -2,8 +2,6 @@
 
 A tool to detect potential rug pulls in crypto using EasyConnect integrations with Make.com.
 
-## Demo
-Watch the demo here: [Demo Video or Demo Page URL]
 
 ## How it Works
 1. **EasyConnect** monitors transactions on the Qubic blockchain.
@@ -15,14 +13,7 @@ Watch the demo here: [Demo Video or Demo Page URL]
 4. Users can see potential risks instantly and take action.
 
 ## Screenshots
-### Insider Dump Alert
-![Insider Dump Alert](screenshots/insider_alert.png)
-
-### Liquidity Alert
-![Liquidity Alert](screenshots/liquidity_alert.png)
-
-### Vesting Alert
-![Vesting Alert](screenshots/vesting_alert.png)
+available next to the read me file
 
 ## Technologies Used
 - EasyConnect
